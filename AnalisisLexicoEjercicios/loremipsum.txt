@@ -1,0 +1,6 @@
+#Texto de prueba
+var nombre;
+8 + 8.2
+5+2 10-2
+i=10
+print()
